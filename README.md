@@ -2,4 +2,4 @@
 
 The founder,owner and main maintainer of [EdgelessPE](https://github.com/EdgelessPE),the total stars of my personal account may seen few due to lots of repositories ownership transfer to [EdgelessPE](https://github.com/EdgelessPE)
 
-Check out my awesome projects below👇
+Check out some awesome projects below👇
